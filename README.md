@@ -2,19 +2,12 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# LOOM RECORDING
 
-This contains everything you need to run your app locally.
+[HERE](https://www.loom.com/share/2f95afd8db374e4596c11962c17aa961)
+- just watch the first 30s of me explaining (i couldn't trim out the actual content playback in loom fremium)
 
-View your app in AI Studio: https://ai.studio/apps/drive/19hhdo8fmOut5fNQ9Vn8QrrHaRE-kZ8NK
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# SLUMBERISATION OF WUTHERING HEIGHTS
+[HERE](https://www.capcut.com/editor/6347B76B-BBC0-470A-A70A-C731A4AFEAE5?workspaceId=7290922136309481473&spaceId=7290921175558390786&utm_medium=Product&utm_source=draftshare&utm_campaign=link)
+- this is the actual playback which you couldn't here the audio for in the loom
+  
