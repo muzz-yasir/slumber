@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slumber</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:italic,wght@400;700&family=Inter:wght@300;400&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #0a0a0c;
+            color: #d1d1d1;
+            font-family: 'Inter', sans-serif;
+            overflow: hidden;
+            margin: 0;
+            cursor: default;
+        }
+        .font-serif {
+            font-family: 'Libre+Baskerville', serif;
+        }
+        .fade-in {
+            animation: fadeIn 3s ease-in forwards;
+        }
+        .fade-out {
+            animation: fadeOut 2s ease-out forwards;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; filter: blur(10px); }
+            to { opacity: 1; filter: blur(0); }
+        }
+        @keyframes fadeOut {
+            from { opacity: 1; }
+            to { opacity: 0; }
+        }
+        .interactive {
+            cursor: pointer;
+        }
+        ::-webkit-scrollbar {
+          display: none;
+        }
+    </style>
+<script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "react": "https://esm.sh/react@^19.2.4"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+<body>
+    <div id="root"></div>
+<script type="module" src="/index.tsx"></script>
+</body>
+</html>
