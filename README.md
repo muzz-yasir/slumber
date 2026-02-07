@@ -8,6 +8,6 @@
 - just watch the first 30s of me explaining (i couldn't trim out the actual content playback in loom fremium)
 
 # SLUMBERISATION OF WUTHERING HEIGHTS
-[HERE](https://www.capcut.com/editor/6347B76B-BBC0-470A-A70A-C731A4AFEAE5?workspaceId=7290922136309481473&spaceId=7290921175558390786&utm_medium=Product&utm_source=draftshare&utm_campaign=link)
+[HERE](https://drive.google.com/file/d/1RS0w93GHgA0v8h0Q-kYwrrOfCUq4lIVR/view?usp=sharing)
 - this is the actual playback which you couldn't here the audio for in the loom
   
